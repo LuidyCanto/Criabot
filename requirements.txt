@@ -1,0 +1,3 @@
+discord
+openai== 1
+python-dotenv
